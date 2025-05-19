@@ -4,9 +4,9 @@
 
 | Name   | Link              |
 |--------|-------------------|
-| roh    | [/roh](https://github.com/madison-study/roh)       |
+| roh    | [roh](https://github.com/madison-study/roh)       |
 | yoon   | [GitHub](#)       |
 | woong  | [GitHub](#)       |
 | dowon  | [GitHub](#)       |
 | leo    | [GitHub](#)       |
-| youjae | [GitHub](#)       |
+| youjae | [youjae](https://github.com/madison-study/youjae)      |
