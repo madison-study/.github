@@ -8,5 +8,5 @@
 | yoon   | [GitHub](#)       |
 | woong  | [GitHub](#)       |
 | dowon  | [GitHub](#)       |
-| leo    | [GitHub](#)       |
+| leo    | [leo](https://github.com/madison-study/Leo)       |
 | youjae | [youjae](https://github.com/madison-study/youjae)      |
