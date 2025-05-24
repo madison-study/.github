@@ -5,7 +5,7 @@
 | Name   | Link              |
 |--------|-------------------|
 | roh    | [roh](https://github.com/madison-study/roh)       |
-| yoon   | [GitHub](#)       |
+| yoon   | [yoon](https://github.com/madison-study/mushimuro)       |
 | woong  | [GitHub](#)       |
 | dowon  | [GitHub](#)       |
 | leo    | [leo](https://github.com/madison-study/Leo)       |
